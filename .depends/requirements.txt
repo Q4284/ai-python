@@ -46,7 +46,7 @@ cvxopt>=1.2.6
 cvxpy>=1.1.10
 cycler>=0.10.0
 databricks-cli==0.15.0
-datasets==1.11.0
+datasets==1.12.0
 dateparser==1.0.0
 descartes==1.1.0
 dm-tree==0.1.6
@@ -104,7 +104,7 @@ playfab==0.0.201014
 plotly>=4.14.3
 pluggy==0.13.1
 preshed==3.0.5
-protobuf==3.17.3
+protobuf==3.18.0
 psycopg2==2.8.6
 pulp==2.5.0
 pyarrow>=1.0.1
